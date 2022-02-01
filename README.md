@@ -1,10 +1,15 @@
-# Sample Snack app
+# Spotlight mobile app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Spotlight is an android and ios mobile application that allows users to create and track tasks with an expiration timer. 
+
+![Expo Demo](https://user-images.githubusercontent.com/9118865/151909045-cf47464e-f74c-4b43-90c8-ad98978805ba.gif)
+
+
+In the command line, run Expo by entering ````expo start```` in the terminal. You can preview the changes directly on your phone or tablet by scanning the **QR code** to use Expo's iOS or Android emulator.
 
 When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+This project was created on Snack. All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
 
